@@ -44,6 +44,3 @@ We hope developers, especially those dealing with Markdown editor developments, 
 
 For **Mermaid** see [this post](https://notes.nicfab.eu/en/posts/mermaid/).
 
-***
-
-## Markdown Syntax
