@@ -1,5 +1,5 @@
 # Markdown
-The file is the page [Markdown](https://notes.nicfab.eu/en/pages/mkdown/) of our [NicFab Digital Notepad](https://notes.nicfab.eu)
+The file markdown.md is the page [Markdown](https://notes.nicfab.eu/en/pages/mkdown/) of our [NicFab Digital Notepad](https://notes.nicfab.eu)
 
 What is Markdown?
 
