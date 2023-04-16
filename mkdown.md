@@ -1,4 +1,6 @@
 # Markdown
+This file is the page [Markdown](https://notes.nicfab.eu/en/pages/mkdown/) of our [NicFab Digital Notepad](https://notes.nicfab.eu)
+
 What is Markdown?
 
 **Markdown** is a markup language developed by [**John Gruber**](https://daringfireball.net) in collaboration with [**Aaron Swartz**](http://www.aaronsw.com) in 2004.
@@ -319,8 +321,3 @@ This page is a *work-in-progress* and therefore, the page may be subject to upda
 
 
 ***Stay tuned!***
-
-***
-
-{{< chat markdown >}}
-
