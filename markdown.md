@@ -1,7 +1,5 @@
 # Markdown Commands
 
-***
-
 ### Header H1:
 
 ```
